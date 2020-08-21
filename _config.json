@@ -1,0 +1,13 @@
+{
+	"EntitiesNamespace": "Aries.Domain.Entities",
+	"IDbContext": {
+		"Name": "IAriesDbContext",
+		"Namespace": "Aries.Application",
+		"Path": "../../Aries.Application/Common/Interfaces"
+	},
+	"DbContext": {
+		"Name": "AriesDbContext",
+		"Namespace": "Aries.Infrastructure.Persistence",
+		"Path": "../../Aries.Infrastructure/Persistence"
+	}
+}
